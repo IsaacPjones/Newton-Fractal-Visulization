@@ -5,5 +5,6 @@ This project visualizes Newton fractals using C++ and complex number arithmetic.
 The result is a colorful, recursive pattern revealing the intricate behavior of root convergence in the complex plane, a blend of math and generative art.
 
 
+
 ![A picture visulizing a Newton fractal](newton1.png)
 
